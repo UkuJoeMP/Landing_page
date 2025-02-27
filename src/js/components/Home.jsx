@@ -6,22 +6,22 @@ import Footer from "./Footer.jsx"
 
 const cards = [
 	{
-		image: "https://picsum.photos/id/22/200/300",
+		image: "https://picsum.photos/id/22/500/325",
 		title: "Card Title",
 		description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maiores excepturi non illum dolorum eos incidunt dignissimos in deleniti alias iusto ipsum rerum quibusdam, placeat saepe officiis soluta iste odit."
 	},
 	{
-		image: "https://picsum.photos/id/26/200/300",
+		image: "https://picsum.photos/id/26/500/325",
 		title: "Card Title",
 		description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maiores excepturi non illum dolorum eos incidunt dignissimos in deleniti alias iusto ipsum rerum quibusdam, placeat saepe officiis soluta iste odit."
 	},
 	{
-		image: "https://picsum.photos/id/32/200/300",
+		image: "https://picsum.photos/id/32/500/325",
 		title: "Card Title",
 		description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maiores excepturi non illum dolorum eos incidunt dignissimos in deleniti alias iusto ipsum rerum quibusdam, placeat saepe officiis soluta iste odit."
 	},
 	{
-		image: "https://picsum.photos/id/36/200/300",
+		image: "https://picsum.photos/id/36/500/325",
 		title: "Card Title",
 		description : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maiores excepturi non illum dolorum eos incidunt dignissimos in deleniti alias iusto ipsum rerum quibusdam, placeat saepe officiis soluta iste odit."
 	},

@@ -12,3 +12,10 @@
 body {
     background-color: grey;
 }
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-dark .navbar-brand {
+    color: white !important;
+}
